@@ -14,3 +14,11 @@ I think a pop-up should appear when a user wants to order a book that is not in 
 
 And you can go to localhost/books/Index to edit the book information instead of changing database.
 
+# Function
+
+• The application list 3 books in the bookstore.
+• The application allow customer to search books in the bookstore.
+• The application allow customer to reserve a book in the store. It will generate a 
+booking number once the book reservation has been made.
+• The application not allow to reserve a book that has been reserved by other 
+customer.
