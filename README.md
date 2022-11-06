@@ -6,7 +6,7 @@ Update sql database in BookShopDemo/DataStructure
 
 Open website, you should register a account, then login.
 
-You can three book here, then click order button to order, every book has only one. After you order, jump to my order page to check your unique order.
+You can see three books here, then click order button to order, every book has only one. After you order, jump to my order page to check your unique order.
 
 Then the book account is zero, when other user want to order, it jump to main page and not create a order.
 
